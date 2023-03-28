@@ -4,7 +4,18 @@ Este projeto consiste em gerar dados simulados de compras de produtos de mercado
 Esse projeto foi desenvolvido em Python 3 e utiliza as bibliotecas pandas e matplotlib para manipulação de dados e geração de gráficos. Ele foi co-produzido com o ChatGPT, um modelo de linguagem natural desenvolvido pela OpenAI.
 
 # Como usar
-1 - Clone o repositório em sua máquina:
+
+## Opção 1: Acesse o Google Colaboratory
+
+1. Clique no seguinte link: [Google Colaboratory](https://colab.research.google.com/github/IgorNascAlves/Gerador-de-Dados-Simulados/blob/main/criacao_e_analise.ipynb)
+
+2. O notebook será aberto no Google Colaboratory.
+
+3. Execute todas as células do notebook para criar a base CSV e analisar os dados.
+
+OBS: Na parte de análise, o ChatGPT sugeriu algumas recomendações para a análise de dados, as quais foram utilizadas no código. O arquivo JSON com os produtos será automaticamente baixado pelo Google Colaboratory.
+
+## Opção 2: - Clone o repositório em sua máquina:
 
 ```
 git clone https://github.com/IgorNascAlves/Gerador-de-Dados-Simulados.git
