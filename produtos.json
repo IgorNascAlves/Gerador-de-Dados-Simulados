@@ -1,0 +1,147 @@
+[
+    {
+        "produto": "Arroz",
+        "marcas": ["Tio João", "Camil", "Cristal", "Ráris"],
+        "maior_preco": 19.99,
+        "menor_preco": 9.99,
+        "categoria": "Alimentos",
+        "peso": "5kg"
+    },
+    {
+        "produto": "Feijão",
+        "marcas": ["Kicaldo", "Camil", "Grao de Ouro", "Princesa"],
+        "maior_preco": 8.99,
+        "menor_preco": 4.99,
+        "categoria": "Alimentos",
+        "peso": "1kg"
+    },
+    {
+        "produto": "Macarrão",
+        "marcas": ["Renata", "Adria", "Piraquê", "Barilla"],
+        "maior_preco": 4.99,
+        "menor_preco": 2.99,
+        "categoria": "Alimentos",
+        "peso": "500g"
+    },
+    {
+        "produto": "Óleo de Soja",
+        "marcas": ["Liza", "Vila Velha", "Concordia", "Bunge"],
+        "maior_preco": 7.99,
+        "menor_preco": 4.99,
+        "categoria": "Alimentos",
+        "peso": "900ml"
+    },
+    {
+        "produto": "Açúcar",
+        "marcas": ["União", "Cristal", "Estrela", "Da Barra"],
+        "maior_preco": 4.99,
+        "menor_preco": 2.99,
+        "categoria": "Alimentos",
+        "peso": "1kg"
+    },
+    {
+        "produto": "Café",
+        "marcas": ["Pilão", "Melitta", "3 Corações", "Santa Clara"],
+        "maior_preco": 12.99,
+        "menor_preco": 8.99,
+        "categoria": "Alimentos",
+        "peso": "500g"
+    },
+    {
+        "produto": "Leite em Pó",
+        "marcas": ["Ninho", "Itambé", "Parmalat", "Piracanjuba"],
+        "maior_preco": 22.99,
+        "menor_preco": 18.99,
+        "categoria": "Alimentos",
+        "peso": "800g"
+    },
+    {
+        "produto": "Pão de Forma",
+        "marcas": ["Pullman", "Wickbold", "Nutrella", "Seven Boys"],
+        "maior_preco": 5.99,
+        "menor_preco": 3.99,
+        "categoria": "Alimentos",
+        "peso": "500g"
+    },
+    {
+        "produto": "Presunto",
+        "marcas": ["Sadia", "Perdigão", "Pif Paf", "Qualitá"],
+        "maior_preco": 22.99,
+        "menor_preco": 15.99,
+        "categoria": "Alimentos",
+        "peso": "1kg"
+    },
+    {
+        "produto": "Notebook",
+        "marcas": ["Dell", "HP", "Lenovo", "Asus"],
+        "maior_preco": 5999.99,
+        "menor_preco": 3999.99,
+        "categoria": "Eletrônicos",
+        "peso": "2kg"
+    },
+    {
+        "produto": "Smartphone",
+        "marcas": ["Samsung", "Apple", "Motorola", "Xiaomi"],
+        "maior_preco": 3599.99,
+        "menor_preco": 2399.99,
+        "categoria": "Eletrônicos",
+        "peso": "200g"
+    },
+    {
+        "produto": "Televisor",
+        "marcas": ["LG", "Samsung", "Sony", "Philips"],
+        "maior_preco": 7499.99,
+        "menor_preco": 4299.99,
+        "categoria": "Eletrônicos",
+        "peso": "25kg"
+    },
+    {
+        "produto": "Fone de Ouvido",
+        "marcas": ["JBL", "Sony", "Bose", "Sennheiser"],
+        "maior_preco": 1199.99,
+        "menor_preco": 499.99,
+        "categoria": "Eletrônicos",
+        "peso": "50g"
+    },
+    {
+        "produto": "Tablet",
+        "marcas": ["Samsung", "Apple", "Lenovo", "Multilaser"],
+        "maior_preco": 2499.99,
+        "menor_preco": 999.99,
+        "categoria": "Eletrônicos",
+        "peso": "500g"
+    },
+    {
+        "produto": "Câmera Fotográfica",
+        "marcas": ["Canon", "Nikon", "Sony", "Fujifilm"],
+        "maior_preco": 4999.99,
+        "menor_preco": 2999.99,
+        "categoria": "Eletrônicos",
+        "peso": "500g"
+    },
+    {
+        "produto": "Geladeira",
+        "marcas": ["Brastemp", "Electrolux", "Consul", "Samsung"],
+        "maior_preco": 7999.99,
+        "menor_preco": 3999.99,
+        "categoria": "Eletrodomésticos",
+        "peso": "100kg"
+    },
+    {
+        "produto": "Máquina de Lavar",
+        "marcas": ["Brastemp", "Electrolux", "Consul", "LG"],
+        "maior_preco": 4999.99,
+        "menor_preco": 2799.99,
+        "categoria": "Eletrodomésticos",
+        "peso": "70kg"
+    },
+    {
+        "produto": "Fogão",
+        "marcas": ["Brastemp", "Electrolux", "Consul", "Atlas"],
+        "maior_preco": 3499.99,
+        "menor_preco": 1999.99,
+        "categoria": "Eletrodomésticos",
+        "peso": "50kg"
+    }
+]
+
