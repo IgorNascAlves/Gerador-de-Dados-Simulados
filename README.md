@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido em Python 3 e utiliza as bibliotecas pandas e matp
 1 - Clone o repositório em sua máquina:
 
 ```
-git clone https://github.com/seu-usuario/gerador-dados-simulados.git
+git clone https://github.com/IgorNascAlves/Gerador-de-Dados-Simulados.git
 ```
 
 2 - Instale as dependências do projeto:
